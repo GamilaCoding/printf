@@ -43,3 +43,16 @@ int _printf(const char *format, ...)
 	va_end(args);
 	return (error <= 0 ? error : write_to_buffer('\0', -2));
 }
+
+/**
+ * write_format - Writes data formatted against some parameters
+ * @args_list: The arguments list
+ * @fmt_info: The format info parameters that were read
+ */
+void write_format(va_list *args_list, fmt_info_t *fmt_info)
+{
+	int i;
+	spec_printer_t spec_printers[] = {
+		{'d', convert_fmt_di},
+		{'i', convert_fmt_di},
+	};
