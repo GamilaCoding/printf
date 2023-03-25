@@ -3,5 +3,6 @@
 ALX team project include header file "main.h"
 
 # Memeber Teams 
-[Jamelia](https://www.linkedin.com/in/gamelia-ahmed/)
-[shadymamdouh](https://www.linkedin.com/in/shadymamdouh/)
+-[Jamelia](https://www.linkedin.com/in/gamelia-ahmed/)
+
+-[shadymamdouh](https://www.linkedin.com/in/shadymamdouh/)
