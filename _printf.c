@@ -55,4 +55,6 @@ void write_format(va_list *args_list, fmt_info_t *fmt_info)
 	spec_printer_t spec_printers[] = {
 		{'d', convert_fmt_di},
 		{'i', convert_fmt_di},
-	};
+		{'s', convert_fmt_s},
+		{'%', convert_fmt_percent},
+};
