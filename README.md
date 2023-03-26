@@ -2,7 +2,7 @@
 # 0x11. C - printf 
 ALX team project include header file "main.h"
 
-# Memeber Teams 
+# Member Teams
 -[Jamelia](https://www.linkedin.com/in/gamelia-ahmed/)
 
 -[shadymamdouh](https://www.linkedin.com/in/shadymamdouh/)
