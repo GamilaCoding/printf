@@ -137,5 +137,5 @@ Specifier                |Output                        |Examples |
 
 
 ### Authors &copy;
--[Gamelia](https://www.linkedin.com/in/gamelia-developer/)
+-[Gamila](https://www.linkedin.com/in/gamelia-developer/)
 -[shadymamdouh](https://www.linkedin.com/in/shadymamdouh/)
